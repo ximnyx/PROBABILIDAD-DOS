@@ -1,2 +1,2 @@
-# PROBABILIDAD-DOS
+# ProbabilidadDOS
 Trabajos y proyectos
